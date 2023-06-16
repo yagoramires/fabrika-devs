@@ -14,7 +14,7 @@
 <h2> Technologies: </h2>
 <ul>
     <li>ReactJS</li>
-    <li>Typescript</li>
+    <li>JavaScript</li>
     <li>TailwindCSS</li>
     <li>Google Firebase</li>
 </ul>
