@@ -1,0 +1,12 @@
+{
+  "routes": [
+    { "src": "/", "dest": "/" },
+    { "src": "/register", "dest": "/" },
+    { "src": "/profile", "dest": "/" },
+    { "src": "/admins", "dest": "/" },
+    { "src": "/users", "dest": "/" },
+    { "src": "/categories", "dest": "/" },
+    { "src": "/videos", "dest": "/" },
+    { "src": "/*", "dest": "/" }
+  ]
+}
